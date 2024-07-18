@@ -1,0 +1,194 @@
+,Total_List_Cols
+0,#
+1,*Are you self-employed?*
+2,*Do you have previous employers?*
+3,"*If possibly, what disorder(s) do you believe you have?*"
+4,"*If so, what disorder(s) were you diagnosed with?*"
+5,*What disorder(s) have you been diagnosed with?*
+6,<strong>Are you self-employed?</strong>
+7,<strong>Do you have previous employers?</strong>
+8,<strong>Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?</strong>
+9,<strong>Have you observed or experienced supportive or well handled response to a mental health issue in your current or previous workplace?</strong>
+10,<strong>Have your previous employers provided mental health benefits?</strong>
+11,"<strong>If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to clients or business contacts?</strong>"
+12,"<strong>If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to coworkers or employees?</strong>"
+13,<strong>Were you aware of the options for mental health care provided by your previous employers?</strong>
+14,<strong>Would you have been willing to discuss your mental health with your coworkers at previous employers?</strong>
+15,Addictive Disorder
+16,Addictive Disorder.1
+17,Addictive Disorder.2
+18,"Anxiety Disorder (Generalized, Social, Phobia, etc)"
+19,"Anxiety Disorder (Generalized, Social, Phobia, etc).1"
+20,"Anxiety Disorder (Generalized, Social, Phobia, etc).2"
+21,Are you openly identified at work as a person with a mental health issue?
+22,Are you self-employed?
+23,Attention Deficit Hyperactivity Disorder
+24,Attention Deficit Hyperactivity Disorder.1
+25,Attention Deficit Hyperactivity Disorder.2
+26,Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.
+27,Describe the circumstances of the badly handled or unsupportive response.
+28,Describe the circumstances of the supportive or well handled response.
+29,Describe the conversation with coworkers you had about your mental health including their reactions.
+30,"Describe the conversation you had with your employer about your mental health, including their reactions and what actions were taken to address your mental health issue/questions."
+31,Describe the conversation you had with your previous coworkers about your mental health including their reactions.
+32,"Describe the conversation you had with your previous employer about your mental health, including their reactions and actions taken to address your mental health issue/questions."
+33,Describe the conversation your coworker had with you about their mental health (please do not use names).
+34,Describe the conversation your coworker had with you about their mental health (please do not use names)..1
+35,Did you ever discuss your mental health with a previous coworker(s)?
+36,Did you ever discuss your mental health with your previous employer?
+37,Did you ever have a previous coworker discuss their or another coworker's mental health with you?
+38,Did you feel that your previous employers took mental health as seriously as physical health?
+39,Did you hear of or observe negative consequences for co-workers with mental health issues in your previous workplaces?
+40,Did your previous employers ever formally discuss mental health (as part of a wellness campaign or other official communication)?
+41,Did your previous employers provide resources to learn more about mental health disorders and how to seek help?
+42,Did your previous employers provide resources to learn more about mental health issues and how to seek help?
+43,Dissociative Disorder
+44,Dissociative Disorder.1
+45,Dissociative Disorder.2
+46,Do you *currently* have a mental health disorder?
+47,Do you believe your productivity is ever affected by a mental health issue?
+48,Do you currently have a mental health disorder?
+49,Do you feel that being identified as a person with a mental health issue would hurt your career?
+50,Do you feel that your employer takes mental health as seriously as physical health?
+51,Do you have a family history of mental illness?
+52,Do you have medical coverage (private insurance or state-provided) that includes treatment of mental health disorders?
+53,Do you have medical coverage (private insurance or state-provided) which includes treatment of  mental health issues?
+54,Do you have previous employers?
+55,Do you know local or online resources to seek help for a mental health disorder?
+56,Do you know local or online resources to seek help for a mental health issue?
+57,Do you know the options for mental health care available under your employer-provided coverage?
+58,Do you know the options for mental health care available under your employer-provided health coverage?
+59,Do you think that discussing a mental health disorder with previous employers would have negative consequences?
+60,Do you think that discussing a mental health disorder with your employer would have negative consequences?
+61,Do you think that discussing a physical health issue with previous employers would have negative consequences?
+62,Do you think that discussing a physical health issue with your employer would have negative consequences?
+63,Do you think that team members/co-workers would view you more negatively if they knew you suffered from a mental health issue?
+64,Do you work remotely?
+65,Does your employer offer resources to learn more about mental health concerns and options for seeking help?
+66,Does your employer offer resources to learn more about mental health disorders and options for seeking help?
+67,Does your employer provide mental health benefits as part of healthcare coverage?
+68,Does your employer provide mental health benefits as part of healthcare coverage?
+69,"Eating Disorder (Anorexia, Bulimia, etc)"
+70,"Eating Disorder (Anorexia, Bulimia, etc).1"
+71,"Eating Disorder (Anorexia, Bulimia, etc).2"
+72,Has being identified as a person with a mental health issue affected your career?
+73,"Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?"
+74,Have you been diagnosed with COVID-19?
+75,Have you been diagnosed with a mental health condition by a medical professional?
+76,Have you ever been *diagnosed* with a mental health disorder?
+77,Have you ever been diagnosed with a mental health disorder?
+78,Have you ever discussed your mental health with coworkers?
+79,Have you ever discussed your mental health with your employer?
+80,Have you ever had a coworker discuss their or another coworker's mental health with you?
+81,Have you ever sought treatment for a mental health disorder from a mental health professional?
+82,Have you ever sought treatment for a mental health issue from a mental health professional?
+83,Have you had a mental health disorder in the past?
+84,Have you heard of or observed negative consequences for co-workers who have been open about mental health issues in your workplace?
+85,Have you observed or experienced a *supportive or well handled response* to a mental health issue in your current or previous workplace?
+86,Have you observed or experienced an *unsupportive or badly handled response* to a mental health issue in your current or previous workplace?
+87,Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?
+88,Have your observations of how another individual who discussed a mental health disorder made you less likely to reveal a mental health issue yourself in your current workplace?
+89,Have your observations of how another individual who discussed a mental health issue made you less likely to reveal a mental health issue yourself in your current workplace?
+90,Have your previous employers provided mental health benefits?
+91,How has it affected your career?
+92,How many employees does your company or organization have?
+93,How willing would you be to share with friends and family that you have a mental illness?
+94,"If a mental health issue prompted you to request a medical leave from work, asking for that leave would be:"
+95,"If a mental health issue prompted you to request a medical leave from work, how easy or difficult would it be to ask for that leave?"
+96,"If maybe, what condition(s) do you believe you have?"
+97,"If so, what condition(s) were you diagnosed with?"
+98,"If there is anything else you would like to tell us that has not been covered by the survey questions, please use this space to do so."
+99,"If they knew you suffered from a mental health disorder, how do you think that team members/co-workers would react?"
+100,"If they knew you suffered from a mental health disorder, how do you think that your team members/co-workers would react?"
+101,"If they knew you suffered from a mental health disorder, how do you think that team members/co-workers would react?"
+102,"If yes, what condition(s) have you been diagnosed with?"
+103,"If yes, what percentage of your work time (time performing primary or secondary job functions) is affected by a mental health issue?"
+104,"If you have a mental health disorder, how often do you feel that it interferes with your work *when being treated effectively?*"
+105,"If you have a mental health disorder, how often do you feel that it interferes with your work *when* _*NOT*_* being treated effectively (i.e., when you are experiencing symptoms)?*"
+106,"If you have a mental health disorder, how often do you feel that it interferes with your work <strong>when <em>NOT</em> being treated effectively (i.e., when you are experiencing symptoms)?</strong>"
+107,"If you have a mental health disorder, how often do you feel that it interferes with your work <strong>when being treated effectively?</strong>"
+108,"If you have a mental health disorder, how often do you feel that it interferes with your work <strong>when</strong> <em><strong>NOT</strong></em><strong> being treated effectively (i.e., when you are experiencing symptoms)?</strong>"
+109,"If you have a mental health issue, do you feel that it interferes with your work when NOT being treated effectively?"
+110,"If you have a mental health issue, do you feel that it interferes with your work when being treated effectively?"
+111,"If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to clients or business contacts?"
+112,"If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to coworkers or employees?"
+113,"If you have revealed a mental health disorder to a client or business contact, how has this affected you or the relationship?"
+114,"If you have revealed a mental health disorder to a coworker or employee, how has this impacted you or the relationship?"
+115,"If you have revealed a mental health issue to a client or business contact, do you believe this has impacted you negatively?"
+116,"If you have revealed a mental health issue to a coworker or employee, do you believe this has impacted you negatively?"
+117,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?
+118,Is your employer primarily a tech company/organization?
+119,Is your primary role within your company related to tech/IT?
+120,"Mood Disorder (Depression, Bipolar Disorder, etc)"
+121,"Mood Disorder (Depression, Bipolar Disorder, etc).1"
+122,"Mood Disorder (Depression, Bipolar Disorder, etc).2"
+123,Network ID
+124,Obsessive-Compulsive Disorder
+125,Obsessive-Compulsive Disorder.1
+126,Obsessive-Compulsive Disorder.2
+127,Other
+128,Other.1
+129,Other.2
+130,Other.3
+131,"Overall, how much importance did your previous employer place on mental health?"
+132,"Overall, how much importance did your previous employer place on physical health?"
+133,"Overall, how much importance does your employer place on mental health?"
+134,"Overall, how much importance does your employer place on physical health?"
+135,"Overall, how well do you think the tech industry supports employees with mental health issues?"
+136,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)"
+137,"Personality Disorder (Borderline, Antisocial, Paranoid, etc).1"
+138,"Personality Disorder (Borderline, Antisocial, Paranoid, etc).2"
+139,Post-Traumatic Stress Disorder
+140,Post-traumatic Stress Disorder
+141,Post-traumatic Stress Disorder.1
+142,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)"
+143,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc).1"
+144,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc).2"
+145,Response Type
+146,Start Date (UTC)
+147,Stress Response Syndromes
+148,Stress Response Syndromes.1
+149,Stress Response Syndromes.2
+150,Submit Date (UTC)
+151,Substance Use Disorder
+152,Substance Use Disorder.1
+153,Substance Use Disorder.2
+154,Tags
+155,Was your anonymity protected if you chose to take advantage of mental health or substance abuse treatment resources with previous employers?
+156,Was your employer primarily a tech company/organization?
+157,Were you aware of the options for mental health care provided by your previous employers?
+158,What US state or territory do you *live* in?
+159,What US state or territory do you *work* in?
+160,What US state or territory do you <strong>live</strong> in?
+161,What US state or territory do you <strong>work</strong> in?
+162,What US state or territory do you live in?
+163,What US state or territory do you work in?
+164,What country do you *live* in?
+165,What country do you *work* in?
+166,What country do you <strong>live</strong> in?
+167,What country do you <strong>work</strong> in?
+168,What country do you live in?
+169,What country do you work in?
+170,What is your age?
+171,What is your gender?
+172,What is your race?
+173,Which of the following best describes your work position?
+174,Why or why not?
+175,Why or why not?.1
+176,Would you be willing to bring up a physical health issue with a potential employer in an interview?
+177,Would you be willing to talk to one of us more extensively about your experiences with mental health issues in the tech industry? (Note that all interview responses would be used <em>anonymously</em> and only with your permission.)
+178,Would you be willing to talk to one of us more extensively about your experiences with mental health issues in the tech industry? (Note that all interview responses would be used <em>anonymously</em> and only with your permission.)
+179,Would you be willing to talk to one of us more extensively about your experiences with mental health issues in the tech industry? (Note that all interview responses would be used _anonymously_ and only with your permission.)
+180,Would you bring up a mental health issue with a potential employer in an interview?
+181,Would you bring up your *mental* health with a potential employer in an interview?
+182,Would you bring up your mental health with a potential employer in an interview?
+183,Would you feel comfortable discussing a mental health disorder with your coworkers?
+184,Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?
+185,Would you feel comfortable discussing a mental health issue with your coworkers?
+186,Would you feel comfortable discussing a mental health issue with your direct supervisor(s)?
+187,Would you feel more comfortable talking to your coworkers about your physical health or your mental health?
+188,Would you have been willing to discuss a mental health issue with your direct supervisor(s)?
+189,Would you have been willing to discuss a mental health issue with your previous co-workers?
+190,Would you have been willing to discuss your mental health with your coworkers at previous employers?
+191,Would you have been willing to discuss your mental health with your direct supervisor(s)?
+192,Would you have felt more comfortable talking to your previous employer about your physical health or your mental health?
