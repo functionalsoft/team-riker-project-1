@@ -1,21 +1,22 @@
-# Team Rider Project 1
+# Team Riker Project 1
+
+Team Members:
+ - Brendan O'Hara
+ - Dhruba Chakrabarti
+ - Ravichandran Chinnamanaidu
 
 # Introduction:
 
-**In this project detail study provided to get the stats of the healthness of the people who are in tech Industry, primary focus is to compare the people in tech and non tech industries., since healthness of the people and their stability to required solution on ongoing issues are more important for the industry to provide competitive product in the raising demands. Also team member coordination and their team work considered more as wellness and health measure.**
+In this project, we have attempted to study some mental health survey data, gathered over several years, to determine whether people in tech are more prone to mental health issues compared to those in non tech companies or roles.**
 
 * Source of the data
-    1. https://www.kaggle.com
-    2. https://healthdata.gov
-    3. https://data.cdc.gov/
+    https://www.kaggle.com
     
 # Description:
 
-** The health awareness and the stability on the emloyees working in tech and non tech sectors plays critical role on the stability and success of the company, in this project a detail study of the mental stability of the employees in tech and non tech sectors are covered, also the employees visiting the hospitals/doctors for mental issues are gone in details and comparative charts are provided and stats/metrics report created across tech and non tech firm.
+**The stability and success of a company can often be measured by the relative health on an employee. Which physical health, ailments etc. are very apparent, and provided for, the mental health on an employee is often overlooked in both the tech and non tech industries. We have acquired mental health survey data and have used it to determine whether mental issues are more common among employees in tech companies/roles or non tech companies. We originally acquired data spanning over several years from 2016 to 2023. Inconsistencies in the schema of the survey data in the earlier years prompted us to use data from surveys performed in more recent years. We were eventually able to use data from 2020 to 2022 for the purposes of our analysis.
 
-The unique set of data is pulled for the year from 2013 to 2020 from the kaggle for analysis purposes., each file has few hundred columns and required columns are filtered from the CSV file for the report.
-
-
+```
 The python modules imported
 import pandas as pd
 from prophet import Prophet
@@ -31,14 +32,14 @@ import seaborn as sns
 from wordcloud import WordCloud
 from wordcloud import ImageColorGenerator
 from wordcloud import STOPWORDS
-
+```
 There are inbuilt functions developed to clean up the data , specifically html tags, blank space, special characters, number signs, <strong> and </strong> and <em> and </em> and None.
 
 functions were also built to merge columns, drop duplicate columns, reset indexes, NAN, None, data type conversion from float to int and int to string.., cleanup the data and retrofitting to the filtered columns that are required for reports.
 
-
+```
 ['self-employed', 'num-employees', 'tech-employer', 'tech-role', 'has-mental-health-benefits', 'know-mental-health-options', 'discussed-mental-health', 'has-mental-health-resources', 'anonymity-protected', 'mental-health-leave-ease', 'comfort-discussing-health', 'discuss-mental-health-supervisor', 'discussed-mental-health-employer', 'discuss-mental-health-coworkers', 'discussed-mental-health-coworkers', 'coworker-mental-health-discussion', 'importance-physical-health', 'importance-mental-health', 'mental-health-coverage', 'know-mental-health-resources', 'reveal-mental-health-clients', 'effect-reveal-mental-health', 'reveal-mental-health-coworkers', 'impact-reveal-mental-health', 'productivity-mental-health', 'percentage-affected-mental-health', 'previous-mental-health-talk-coworkers', 'current-mental-health-disorder', 'diagnosed-mental-health', 'past-mental-health-disorder', 'sought-treatment', 'family-history-mental-illness', 'mental-health-interference-treated', 'mental-health-interference-untreated', 'observations-mental-health-discussion', 'share-mental-illness', 'physical-health-interview', 'mental-health-interview', 'open-mental-health', 'mental-health-career', 'mental-health-career-effect', 'team-reaction', 'unsupportive-response', 'supportive-response', 'industry-support', 'interview-mental-health', 'age', 'gender', 'country-live', 'us-state-live', 'race', 'year', 'submit-date', 'network-id', 'disorders']      
-
+```
 ** 
 
 # Scope of the project
@@ -55,16 +56,16 @@ functions were also built to merge columns, drop duplicate columns, reset indexe
 
 
 
-# Sample data Data got through the kaggles site
-
+# Sample data
+```
 ..
 100000,0,25-Jun,1,,No,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Maybe,Yes,Yes,No,,,,,,,,,1,"Yes, they all did",I was aware of some,None did,Some did,"Yes, always",None of them,None of them,"No, at none of my previous employers",Some of my previous employers,Some did,None of them,Maybe,"It would depend on the health issue. If there is a health issue that would not immediately affect my job performance, such as diabetes, I woul
 ..
-
+```
 
 # data cleanup functions
 
-
+```
 pd.set_option('display.max_columns', None)
 
 def remove_html_tags(text):
@@ -106,7 +107,7 @@ def preprocess_df(df):
     df = rename_duplicate_columns(df)
     df = df.reset_index(drop=True)
     return df
-
+```
 
 
 
@@ -125,13 +126,15 @@ def preprocess_df(df):
 
 The charts from PPT
 
+![P1C1](./images/P1C1.png)
+![P1C1](./images/P1C2.png)
+![P1C1](./images/P1C3.png)
+
     * Conclusion
     ** There doesn’t seem to be any correlation between Tech and MH Issues **
     1. Is this because of sample size?
     2. Is this because of the burdensome way the survey was structured?
     3. Is Age a factor? Perhaps or it is more about the stress associated with career progression.
-
-
 
 ## Part 2 Do people in Companies with Wellness Programs have more MH issues then their counterparts?
     Clean the data
@@ -145,8 +148,11 @@ The charts from PPT
 
 The charts from PPT
 
+![P2C1](./images/P2C1.png)
+![P2C2](./images/P2C2.png)
+
     * Conclusion
-    here does seem to be any correlation between Wellness Programs and MH Issues
+    There does not seem to be any correlation between Wellness Programs and MH Issues
     Is this because of wellness programs that more people are less reluctant to admit it?
     Is this because of wellness programs that more people seek help?
 
@@ -161,8 +167,14 @@ The charts from PPT
     Run visualization
     Weep
 
+The charts from PPT
+
+![P3C1](./images/P3C1.png)
+![P3C2](./images/P3C2.png)
+
+
     Conclusion
-    The USA has more tech Mental Health issues
+    Tech employees in the USA have more Mental Health issues.
     Is this because of overall work culture?
     Is this because of wellness programs that are built into national health systems
     Is it because there is less of a culture of coming forward with MH issues
