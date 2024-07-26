@@ -5,12 +5,14 @@ Team Members:
  - Dhruba Chakrabarti
  - Ravichandran Chinnamanaidu
 
+Final Code File: <em>main-worksheet.ipynb</em>
+
 # Introduction:
 
 In this project, we have attempted to study some mental health survey data, gathered over several years, to determine whether people in tech are more prone to mental health issues compared to those in non tech companies or roles.**
 
-* Source of the data
-    https://www.kaggle.com
+Source of the data
+ - <a href=https://www.kaggle.com>Kaggle</a>
     
 # Description:
 
